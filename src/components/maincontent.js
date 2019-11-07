@@ -4,7 +4,7 @@ export default function MainContent() {
     return (
         <div className="container">
             <div className="section">
-                <p>Main content component</p>
+                <h1>Main content component</h1>
             </div>
         </div>
     )
